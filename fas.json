@@ -1,0 +1,6 @@
+{
+  "appId": "mcp-live-demo",
+  "applicationRoot": "web",
+  "outputPath": "web/dist",
+  "buildCommand": "pnpm build"
+}
